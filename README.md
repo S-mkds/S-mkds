@@ -5,7 +5,7 @@
 - 📫 How to reach me ...
 - <h1 align="center">Welcome to my Github👋</h1>
 
-## S-Mkds
+## S-mkds
 <p align="justify">full-stack developer. 👾 </p>
 
 ## Technical Stack
