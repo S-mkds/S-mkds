@@ -1,7 +1,7 @@
 
   <h1 align="center">Welcome to my Github👋</h1>
 
-## S-mkds
+## S-mkds work in progress
 
 ### <div>I'm Samir, 👾 a full-time full-stack freelance developer 👨‍💻 🚀</div>  
 
