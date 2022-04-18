@@ -123,8 +123,8 @@ If things goes well, this section should automatically be replaced by a list of 
             </a></div>
 <br />
 
-----
-<div align="center">Generated using <a href="https://www.buymeacoffee.com/smkds" target="_blank">Github Profilinator</a></div>
+
+<div align="center"><a href="https://www.buymeacoffee.com/smkds" </a></div>
   
 
 
