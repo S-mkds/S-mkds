@@ -99,21 +99,11 @@
 
 <br/>  
 
-<div align="center">
-            <a href="https://www.buymeacoffee.com/smkds" target="_blank" style="display: inline-block;">
-                <img
-                    src="https://img.shields.io/badge/Donate-Buy%20Me%20A%20Coffee-orange.svg?style=flat-square" 
-                    align="center"
-                />
-            </a></div>
-<br />
 
-
-<div align="center"><a href="https://www.buymeacoffee.com/smkds" </a></div>
   
 
 ## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=S-mkds&hide_border=true&layout=compact" align="center" style="width: 30%" /></div>  
+<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=S-mkds&hide_border=true&layout=compact" align="center" style="width: 40%" /></div>  
 
 <br/>  
 
@@ -129,5 +119,16 @@ You can click the Preview link to take a look at your changes.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
+<div align="center">
+            <a href="https://www.buymeacoffee.com/smkds" target="_blank" style="display: inline-block;">
+                <img
+                    src="https://img.shields.io/badge/Donate-Buy%20Me%20A%20Coffee-orange.svg?style=flat-square" 
+                    align="center"
+                />
+            </a></div>
+<br />
+
+
+<div align="center"><a href="https://www.buymeacoffee.com/smkds" </a></div>
 Generated with profilenator website
 --->
