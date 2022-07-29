@@ -9,8 +9,10 @@
 <div>Currently, I want to continue my studies in coding. I am a motivated and enthusiastic person to learn and improve my skills.</div>
 <br/>  
 <div>#OprenToWork</div>
-
 <br/>  
+<div>- 🌱 I’m currently learning Docker</div>
+<br/>  
+
 
 ## S-mkds work in progress 👨‍💻
 
@@ -106,6 +108,14 @@
 
 <br/>  
 
+<div align="center">
+            <a href="https://www.buymeacoffee.com/smkds" target="_blank" style="display: inline-block;">
+                <img
+                    src="https://img.shields.io/badge/Donate-Buy%20Me%20A%20Coffee-orange.svg?style=flat-square" 
+                    align="center"
+                />
+            </a></div>
+<br />
 
 <!---
 S-mkds/S-mkds is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
