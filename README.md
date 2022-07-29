@@ -7,7 +7,7 @@
 
 
 <div>Currently, I want to continue my studies in coding. I am a motivated and enthusiastic person to learn and improve my skills.</div>
-
+<br/>  
 <div>#OprenToWork</div>
 
 <br/>  
