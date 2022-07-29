@@ -6,8 +6,8 @@
 ### <div>I'm Samir, 👾 a full-time full-stack 👨‍💻🚀 I'am living on Marseille </div>  
 
 
-Currently, I want to continue my studies in coding. I am a motivated and enthusiastic person to learn and improve my skills.
-
+<div>Currently, I want to continue my studies in coding. I am a motivated and enthusiastic person to learn and improve my skills.</div>
+<div>#OprenToWork</div>
 <br/>  
 
 ## S-mkds work in progress 👨‍💻
