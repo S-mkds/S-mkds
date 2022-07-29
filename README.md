@@ -3,8 +3,7 @@
 
 ## S-mkds work in progress 👨‍💻
 
-### <div>I'm Samir, 👾 a full-time full-stack 👨‍💻🚀 I'am living on Marseille 
-     </div>  
+### <div>I'm Samir, 👾 a full-time full-stack 👨‍💻🚀 I'am living on Marseille </div>  
 
 <br/>  
 
