@@ -106,6 +106,10 @@
 <br/>  
 
 <div align="center">
+<img src="https://komarev.com/ghpvc/?username=S-mkds&&style=flat-square" align="center" />
+</div>  
+<!---
+<div align="center">
             <a href="https://www.buymeacoffee.com/smkds" target="_blank" style="display: inline-block;">
                 <img
                     src="https://img.shields.io/badge/Donate-Buy%20Me%20A%20Coffee-orange.svg?style=flat-square" 
@@ -113,8 +117,7 @@
                 />
             </a></div>
 <br />
-
-<div align="center">Generated using <a href="https://profilinator.S-mkds.dev/" target="_blank">Github Profilinator</a></div>
+---!>
 
 <!---
 S-mkds/S-mkds is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
